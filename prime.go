@@ -21,7 +21,7 @@ type Child struct {
 
 type Prime struct {
 	*device.Device
-	Child Child
+	Child     Child
 	templates *template.Template
 }
 
