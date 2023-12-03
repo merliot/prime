@@ -14,29 +14,7 @@ class Prime extends WebSocketController {
 
 	open() {
 		super.open()
-		document.title = this.state.Device.Model + " - " + this.state.Device.Name
-		this.view.data = "/" + this.state.Device.Id + "/"
-	}
-
-	handle(msg) {
-		switch(msg.Path) {
-		case "connected":
-			this.connected(msg.Id)
-			break
-		case "disconnected":
-			this.disconnected(msg.Id)
-			break
-		}
-	}
-
-	connected(id) {
-		this.setDeviceIcon(id, true)
-	}
-
-	disconnected(id) {
-		this.setDeviceIcon(id, false)
-	}
-
-	setDeviceIcon(id, online) {
+		document.title = this.state.Child.Model + " - " + this.state.Child.Name
+		this.view.data = "/" + this.state.Child.Id + "/"
 	}
 }
