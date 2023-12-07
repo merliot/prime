@@ -3,8 +3,8 @@ module github.com/merliot/prime
 go 1.21.0
 
 require (
-	github.com/merliot/dean v0.0.0-20231207053908-77d8c28fec03
-	github.com/merliot/device v0.0.0-20231207055258-d5ae7a108df9
+	github.com/merliot/dean v0.0.0-20231207213459-40d59ee34083
+	github.com/merliot/device v0.0.0-20231207063929-7f0e0d09fe1f
 )
 
 require (
