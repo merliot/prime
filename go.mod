@@ -1,15 +1,15 @@
 module github.com/merliot/prime
 
-go 1.19
+go 1.21.0
 
 require (
-	github.com/merliot/dean v0.0.0-20231201053006-c27f801c0c3b
-	github.com/merliot/hub v0.0.0-20231201053612-24f08711cbb1
+	github.com/merliot/dean v0.0.0-20231207053908-77d8c28fec03
+	github.com/merliot/device v0.0.0-20231207055258-d5ae7a108df9
 )
 
 require (
-	github.com/gomarkdown/markdown v0.0.0-20230922112808-5421fefb8386 // indirect
-	golang.org/x/crypto v0.14.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/text v0.13.0 // indirect
+	github.com/merliot/target v0.0.0-20231207054042-652046c3a2c5 // indirect
+	golang.org/x/crypto v0.16.0 // indirect
+	golang.org/x/net v0.19.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 )
