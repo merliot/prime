@@ -1,5 +1,7 @@
 github.com/merliot/dean v0.0.0-20231207213459-40d59ee34083 h1:aDPC+651E5JHQsPbWY8nfuOcmDqifJ84Qz2omJMNr7Y=
 github.com/merliot/dean v0.0.0-20231207213459-40d59ee34083/go.mod h1:uoIGfhAx8rt/TB3mDZcZWvO/+ajvNitFYYHSHBqqBrE=
+github.com/merliot/dean v0.0.0-20231208003337-ba15b20fe511 h1:UiM82rt2czYQFEzy37mbJaXfDdDbQhfa7/04BKiDOFU=
+github.com/merliot/dean v0.0.0-20231208003337-ba15b20fe511/go.mod h1:uoIGfhAx8rt/TB3mDZcZWvO/+ajvNitFYYHSHBqqBrE=
 github.com/merliot/device v0.0.0-20231207063929-7f0e0d09fe1f h1:xoEHGgfvaERCeCWWo1xtG9SUhgWGz9jAvRIzHevh52A=
 github.com/merliot/device v0.0.0-20231207063929-7f0e0d09fe1f/go.mod h1:gkFHoVMrSJmZJpTv3g9cj7GCDkpk/IfnlYRUyjQidRU=
 github.com/merliot/target v0.0.0-20231207054042-652046c3a2c5 h1:76H0zIDylHVKMkJxg+G6vEM2udM+IP2h0PZkNIZPBy8=
